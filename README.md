@@ -1,4 +1,5 @@
-![image](https://github.com/PinkerYao/portfolio/assets/174563696/93ba3df7-30a0-4844-8ef3-b0fa22fd12e6)## Researcher 
+
+## Researcher 
 #### Technical Skills 
 - Quantitative data analysis (SPSS, R)
 - Qualitative data analysis (NVivo, ATLAS.ti)
@@ -13,21 +14,37 @@
 - Master of Communication	| The University of Canberra (_December 2020_)	 			        		
 - Bachelor of Broadcasting and Hosting | Tianjin Normal University (_June 2016_)
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Research Projects
+### Digital News Report: Australia 
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048](https://apo.org.au/node/326816 ) 
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Using **SPSS** to conduct statistical data analysis based on the requested theme and topic associated with this report's interest.
+- Exploring the Australian and global data to identify the research gap and potential research topic in the news media field.
+- Searching literature and analysing the data to write articles based on the research gap found in the raw data.
+- Create and maintain the guidebook for the methodology change for each year's report.
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### The Rise of Mistrust: Digital platforms and trust in news media
+[Publication](https://www.canberra.edu.au/research/faculty-research-centres/nmrc/major-projects/the-rise-of-mistrust)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Conducting a **systematic literature review** with 4 databases containing more than 1.000 literature.
+- Research project management including data management, meeting schedule, and administration.
+- Participating in the experiment design and developing interview guidelines.
+- Participating in the longitudinal research design with the Digital News Report data.
+- - Conducting qualitative data analysis using software **ATLAS,ti**.
+- Conducting quantitative data analysis using software **SPSS**.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
+### Who produces the news? – News in Asia 
+[Publication](https://www.publicmediaalliance.org/publications/news-in-asia/)
+
+- Collected more than 200 raw data from the media outlets in China and Taiwan through online resources including government documentation, statistics reports, and media releases.
+- Conducted overall reports based on the data analysis and generated information. 
+- Review all the sources and data used in the report to ensure authenticity and accuracy, as well as translating the Chinese sources to the English version.  
+- Generated two thorough reports about the media environment in China and Taiwan. 
  
 ## Publications & Conferences 
 - Park, S., McGuinness, K., Fisher, C., Lee, J., McCallum, K., Cai, X., Chatskin, M., Mardjianto, L. & Yao, P. (2023). Digital News Report: Australia 2024. Canberra: News and Media Research Centre, University of Canberra. https://apo.org.au/sites/default/files/resource-files/2024-06/apo-nid326816_4.pdf
@@ -62,15 +79,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
   Canberra/Online  
   April 2019 - January 2022
 
-
-
-## Teaching Experience 
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
 
 ## Industry Experience
