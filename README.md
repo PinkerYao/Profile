@@ -1,5 +1,5 @@
 ## Researcher 
-**Technical Skills 
+#### Technical Skills 
 - Quantitative data analysis (SPSS software, R)
 - Qualitative data analysis (NVivo, ATLAS.ti)
 - Systematic literature review
