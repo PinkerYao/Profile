@@ -44,8 +44,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
   Faculty of Art and Design, University of Canberra  
   Winter Semester 2024; Semester 2 2023
   
-- **Course Convener  - Critical Thinking; Mass Media & International Relationship**
-  Global Learning program at Hubei University, University of Canberra
+- **Course Convener  - Critical Thinking; Mass Media & International Relationship**  
+  Global Learning program at Hubei University, University of Canberra  
   Semester 1 2024
 
 - **Invited Lecture - Doing Social Research (11637)**  
