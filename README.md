@@ -33,7 +33,7 @@
 - Research project management including data management, meeting schedule, and administration.
 - Participating in the experiment design and developing interview guidelines.
 - Participating in the longitudinal research design with the Digital News Report data.
-- - Conducting qualitative data analysis using software **ATLAS,ti**.
+- Conducting qualitative data analysis using software **ATLAS,ti**.
 - Conducting quantitative data analysis using software **SPSS**.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
@@ -88,7 +88,7 @@
 - Liaised corporations with more than 100 local businesses, and created quality photography and written content for these businesses to boost their delivery volume on the HarkHark Canberra APP.
 - Closely monitored the businesses’ performances on the HarkHark Canberra APP, conducted monthly analysis reports reflecting their marketing data; followed by evaluating and suggesting the businesses about their space of improvements.
 
-**Broadcast Journalist @ China Beijing TV Life Channel (_December 2020 - Present_)**
+**Broadcast Journalist @ China Beijing TV Life Channel (_July/2016- October /2017_)**
 - Conducted research, gathered information from multiple sources and presented results.
 - Coordinated with producers and on-air talent to create program content, new ideas and segments.
 - Planned video shootings in the studio and remotely by managing production through all stages to completion.
