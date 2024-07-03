@@ -36,7 +36,7 @@
 - Conducting qualitative data analysis using software **ATLAS,ti**.
 - Conducting quantitative data analysis using software **SPSS**.
 
-![Rise of mistrust ](assets/download.jpeg) 
+![Rise of mistrust ](assets/bannner-photo.jpg) 
 
 ### Who produces the news? – News in Asia 
 [Publication](https://www.publicmediaalliance.org/publications/news-in-asia/)
