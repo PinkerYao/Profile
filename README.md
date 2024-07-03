@@ -40,8 +40,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
   
 ## Publications & Conferences 
-- Park, S., McGuinness, K., Fisher, C., Lee, J., McCallum, K., Cai, X., Chatskin, M., Mardjianto, L. & Yao, P. (2023). Digital News Report: Australia 2024. Canberra: News and Media Research Centre, University of Canberra.
-  (https://apo.org.au/sites/default/files/resource-files/2024-06/apo-nid326816_4.pdf)
+- Park, S., McGuinness, K., Fisher, C., Lee, J., McCallum, K., Cai, X., Chatskin, M., Mardjianto, L. & Yao, P. (2023). Digital News Report: Australia 2024. Canberra: News and Media Research Centre, University of Canberra. https://apo.org.au/sites/default/files/resource-files/2024-06/apo-nid326816_4.pdf
 -Park, S., McGuinness, K., Fisher, C., Lee, J., McCallum, K., Cai, X., Chatskin, M., Mardjianto, L. & Yao, P. (2023). Digital News Report: Australia 2023. Canberra: News and Media Research Centre, University of Canberra.
 -Lee, J., McGuinness, K., Park, S., Fisher, C., Yao, P., Chatskin, M., & McCallum, K. (2023). Women and news special report: Gender gaps in news consumption and engagement. Canberra: News and Media Research Centre, University of Canberra.
 -Park, S., Fisher, C., Fletcher, R., Dulleck, U., Tandoc, E., Fulton, J., Stepnik, A. &Yao, P. (2024) “Exploring responses to untrustworthy news among heavy and non-news users: from high-effort pragmatic scepticism to low-effort cynical disengagement”. New Media and Society.
