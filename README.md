@@ -24,7 +24,7 @@
 - Create and maintain the guidebook for the methodology change for each year's report.
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![DNR](assets/digital-news-report-australia-2024-link-in-comments-v0-nzjc6o9yx37d1.webp)
 
 ### The Rise of Mistrust: Digital platforms and trust in news media
 [Publication](https://www.canberra.edu.au/research/faculty-research-centres/nmrc/major-projects/the-rise-of-mistrust)
@@ -36,7 +36,7 @@
 - Conducting qualitative data analysis using software **ATLAS,ti**.
 - Conducting quantitative data analysis using software **SPSS**.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Rise of mistrust ](assets/download.jpeg) 
 
 ### Who produces the news? – News in Asia 
 [Publication](https://www.publicmediaalliance.org/publications/news-in-asia/)
@@ -44,7 +44,9 @@
 - Collected more than 200 raw data from the media outlets in China and Taiwan through online resources including government documentation, statistics reports, and media releases.
 - Conducted overall reports based on the data analysis and generated information. 
 - Review all the sources and data used in the report to ensure authenticity and accuracy, as well as translating the Chinese sources to the English version.  
-- Generated two thorough reports about the media environment in China and Taiwan. 
+- Generated two thorough reports about the media environment in China and Taiwan.
+
+![Aisan Study](assets/NIA-title-globe-FB-1.jpg)
  
 ## Publications & Conferences 
 - Park, S., McGuinness, K., Fisher, C., Lee, J., McCallum, K., Cai, X., Chatskin, M., Mardjianto, L. & Yao, P. (2023). Digital News Report: Australia 2024. Canberra: News and Media Research Centre, University of Canberra. https://apo.org.au/sites/default/files/resource-files/2024-06/apo-nid326816_4.pdf
