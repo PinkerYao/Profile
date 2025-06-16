@@ -30,7 +30,7 @@
 [Publication](https://www.canberra.edu.au/research/faculty-research-centres/nmrc/major-projects/the-rise-of-mistrust)
 
 - Conducting a **systematic literature review** with 4 databases containing more than 1.000 literature.
-- Research project management including data management, meeting schedule, and administration.
+- Research project management, including data management, meeting schedule, and administration.
 - Participating in the experiment design and developing interview guidelines.
 - Participating in the longitudinal research design with the Digital News Report data.
 - Conducting qualitative data analysis using software **ATLAS,ti**.
@@ -53,12 +53,20 @@
 - Park, S., McGuinness, K., Fisher, C., Lee, J., McCallum, K., Cai, X., Chatskin, M., Mardjianto, L. & Yao, P. (2023). Digital News Report: Australia 2023. Canberra: News and Media Research Centre, University of Canberra. (https://apo.org.au/sites/default/files/resource-files/2023-06/apo-nid322606_1.pdf)
 - Lee, J., McGuinness, K., Park, S., Fisher, C., Yao, P., Chatskin, M., & McCallum, K. (2023). Women and news special report: Gender gaps in news consumption and engagement. Canberra: News and Media Research Centre, University of Canberra. (https://www.canberra.edu.au/research/faculty-research-centres/nmrc/research/gender-special-issue/DNR-Women-and-news-special-report.pdf)
 - Park, S., Fisher, C., Fletcher, R., Dulleck, U., Tandoc, E., Fulton, J., Stepnik, A. &Yao, P. (2024) “Exploring responses to untrustworthy news among heavy and non-news users: from high-effort pragmatic scepticism to low-effort cynical disengagement”. New Media and Society.(https://doi.org/10.1177/14614448241234916)
-- Fisher, C., Park, S., McGuinness, K., Fulton, J. & Yao, P. (forthcoming)” I don’t understand it”: Australians’ low interest in politics. and political news. International Journal of Communication 
+- Fisher, C., Park, S., McGuinness, K., Fulton, J. & Yao, P. (2024)” I don’t understand it”: Australians’ low interest in politics. and political news. International Journal of Communication 
 - Exploring the Link between Trust in News Media and Social Cohesion. Presented at the Australian and New Zealand Communication Association Annual Conference, Victoria University of Wellington (2023)
 - Navigating Trust from an Audience Perspective: Exploring the Relationship Between Trust in News and Social Cohesion in Australia's Multicultural Communities. Presented at the International Communication Association Annual Conference, Journalism Division PhD Colloquium (2024)
 
 
 ## Teaching Experience
+- **Course Convener  - Academic writing; Mass Media & International Relationship**  
+  Global Learning program at Hubei University, University of Canberra  
+  Semester 1 2025
+
+- **Course Convener - Managing Marketing Communication (11641)**  
+  Faculty of Art and Design, University of Canberra  
+ Semester 2 2024
+  
 - **Sessional Tutor - Managing Brand (11097)**  
   Faculty of Art and Design, University of Canberra  
   Winter Semester 2024; Semester 2 2023
