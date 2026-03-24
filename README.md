@@ -59,9 +59,17 @@
 - Fisher, C., Park, S., McGuinness, K., Fulton, J. & **Yao, P**. (2024)” I don’t understand it”: Australians’ low interest in politics. and political news. International Journal of Communication 
 - Exploring the Link between Trust in News Media and Social Cohesion. Presented at the Australian and New Zealand Communication Association Annual Conference, Victoria University of Wellington (2023)
 - Navigating Trust from an Audience Perspective: Exploring the Relationship Between Trust in News and Social Cohesion in Australia's Multicultural Communities. Presented at the International Communication Association Annual Conference, Journalism Division PhD Colloquium (2024)
+- Alternative Media and Sense of Belonging: News Consumption and Trust among Multicultural Communities in Australia. Presented at the 2025 conference of the International Association for Media and Communication Research - IAMCR 2025 hosted in Singapore by Nanyang Technological University, July 13-17, (2025)
+- Understanding the Role of News Media in Shaping Belonging among Australia’s Multicultural Communities: A Focus on News Consumption and Trust. Presented at the Australian and Aotearoa New Zealand Communication Association Annual Conference,  University of Sunshine Coast  (2025)
+ 
 
 
 ## Teaching Experience
+
+- **Course Convener  - Academic writing; Intercultural Communication p**  
+  Global Learning program at Hubei University, University of Canberra  
+  Semester 2 2025
+
 - **Course Convener  - Academic writing; Mass Media & International Relationship**  
   Global Learning program at Hubei University, University of Canberra  
   Semester 1 2025
