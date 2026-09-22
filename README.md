@@ -11,7 +11,7 @@
 
 <div class="profile-intro" id="profile">
 
-### Profile
+## Profile
 
 I am a PhD candidate and Research Associate at the News and Media Research Centre, University of Canberra. My research examines how multicultural and multilingual communities navigate complex news environments and how news use and trust shape belonging, settlement, civic participation and social cohesion.
 
@@ -19,12 +19,6 @@ My doctoral research focuses on trust across the multiple news systems used by m
 
 Before entering academia, I worked as a broadcast journalist at Beijing Television. My combined experience in journalism, multilingual research, university teaching and professional translation informs an interdisciplinary research program focused on news, trust and communication in culturally diverse societies.
 
-</div>
-
-<div class="profile-links">
-  <a href="mailto:Pinker.Yao@canberra.edu.au">Email</a>
-  <a href="https://orcid.org/0000-0002-4999-5665">ORCID</a>
-  <a href="https://diversenewstrust.com/">PhD Project</a>
 </div>
 
 ## Connect with me
