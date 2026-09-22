@@ -11,7 +11,7 @@
 
 <div class="profile-intro" id="profile">
 
-## Profile
+<h2>Profile</h2>
 
 I am a PhD candidate and Research Associate at the News and Media Research Centre, University of Canberra. My research examines how multicultural and multilingual communities navigate complex news environments and how news use and trust shape belonging, settlement, civic participation and social cohesion.
 
